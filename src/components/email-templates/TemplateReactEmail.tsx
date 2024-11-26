@@ -31,7 +31,7 @@ export const KoalaWelcomeEmail = ({
     <Body style={main}>
       <Container style={container}>
         <Img
-          src={`${baseUrl}/static/koala-logo.png`}
+          src={`${baseUrl}/stripe-logo.png`}
           width="170"
           height="50"
           alt="Koala"
